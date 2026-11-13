@@ -1,0 +1,17 @@
+MCCC processed: 0334312                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.ANAH         0.3743    0.2404    0.8468    0.0732    0  P.ANAH.h.1        
+ XO.GUA1         0.1278    0.1679    0.6648    0.1655    0  P.GUA1.h.1        
+ XO.GUA3        -0.1236    0.2736    0.7810    0.1056    0  P.GUA3.h.1        
+ XO.SAP2        -0.2136    0.1643    0.8048    0.1039    0  P.SAP2.h.1        
+ XO.SAP3        -0.2079    0.1721    0.7431    0.1182    0  P.SAP3.h.1        
+ XO.SAP5        -0.4493    0.2804    0.6213    0.1550    0  P.SAP5.h.1        
+ XO.SARI         0.4921    0.1044    0.7981    0.1086    0  P.SARI.h.1        
+ XO.ANAH         0.3743    0.2404    0.8468    0.0732    0  P.ANAH.h.1        
+Mean_arrival_time:    -1.3991                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   4.30   Inset:   2.51  Shift:   0.25                                                                                                                                       
+Variance: 0.02525   Coefficient: 0.75142  Sample rate:   40.000                                                                                                                     
+Taper:   0.54                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003 12  9 12 44  0.02    51.295  -179.299   26.8  0.0  0.0                                                                                                                  

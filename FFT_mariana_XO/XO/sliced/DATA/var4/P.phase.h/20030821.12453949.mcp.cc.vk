@@ -1,0 +1,20 @@
+MCCC processed: 0323312                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.GUA1         0.5692    0.1621    0.9157    0.0792    0  P.GUA1.h.1        
+ XO.GUA2         0.7126    0.1624    0.8677    0.1032    0  P.GUA2.h.1        
+ XO.GUA3         0.5492    0.2452    0.9291    0.0582    0  P.GUA3.h.1        
+ XO.ROTA         0.0642    0.2453    0.9201    0.0522    0  P.ROTA.h.1        
+ XO.SAP1        -0.1808    0.1631    0.9184    0.0569    0  P.SAP1.h.1        
+ XO.SAP2        -0.4583    0.1630    0.8091    0.0753    0  P.SAP2.h.1        
+ XO.SAP3        -0.2833    0.1623    0.9377    0.0372    0  P.SAP3.h.1        
+ XO.SAP5        -0.1608    0.1634    0.9194    0.0365    0  P.SAP5.h.1        
+ XO.TIN1        -0.4658    0.1636    0.8800    0.0648    0  P.TIN1.h.1        
+ XO.TIN3        -0.3458    0.2726    0.9386    0.0504    0  P.TIN3.h.1        
+ XO.GUA1         0.5692    0.1621    0.9157    0.0792    0  P.GUA1.h.1        
+Mean_arrival_time:    -1.9163                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   4.78   Inset:   2.03  Shift:   0.25                                                                                                                                       
+Variance: 0.01167   Coefficient: 0.90356  Sample rate:   40.000                                                                                                                     
+Taper:   0.60                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  8 21 12 45 39.49   -45.055   167.122   21.5  0.0  0.0                                                                                                                  

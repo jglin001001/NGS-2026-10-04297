@@ -1,0 +1,16 @@
+MCCC processed: 0318806                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.ANAH         1.7401    0.4254    0.9497    0.0290    0  P.ANAH.l.1        
+ XO.GUA3        -0.0066    0.4263    0.8862    0.0894    0  P.GUA3.l.1        
+ XO.PAGE        -1.2682    0.3304    0.9124    0.0486    0  P.PAGE.l.1        
+ XO.PAGW         1.4318    0.4114    0.8849    0.0832    0  P.PAGW.l.1        
+ XO.SAP3         0.7901    0.2729    0.9291    0.0578    0  P.SAP3.l.1        
+ XO.TIN2        -2.6873    0.3582    0.9355    0.0311    0  P.TIN2.l.1        
+ XO.ANAH         1.7401    0.4254    0.9497    0.0290    0  P.ANAH.l.1        
+Mean_arrival_time:    -4.3578                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.16   Inset:   4.14  Shift:   0.25                                                                                                                                       
+Variance: 0.03496   Coefficient: 0.91629  Sample rate:   40.000                                                                                                                     
+Taper:   2.14                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  7  7  6 55 43.73    34.589    89.503   23.0  0.0  0.0                                                                                                                  

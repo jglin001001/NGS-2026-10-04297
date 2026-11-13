@@ -1,0 +1,22 @@
+MCCC processed: 0320802                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.ALMN        -0.5946    0.3637    0.9957    0.0036    0  P.ALMN.l.1        
+ XO.GUA1         0.4854    0.2137    0.9909    0.0064    0  P.GUA1.l.1        
+ XO.GUA2         0.4429    0.2137    0.9935    0.0046    0  P.GUA2.l.1        
+ XO.GUA3         0.3242    0.3637    0.9938    0.0046    0  P.GUA3.l.1        
+ XO.PAGW        -0.5008    0.3636    0.9967    0.0026    0  P.PAGW.l.1        
+ XO.ROTA         0.2342    0.2246    0.9973    0.0023    0  P.ROTA.l.1        
+ XO.SAP1        -0.0029    0.2138    0.9954    0.0038    0  P.SAP1.l.1        
+ XO.SAP2        -0.0725    0.2136    0.9924    0.0057    0  P.SAP2.l.1        
+ XO.SAP3         0.0054    0.3282    0.9966    0.0032    0  P.SAP3.l.1        
+ XO.SARI        -0.5467    0.3283    0.9962    0.0029    0  P.SARI.l.1        
+ XO.TIN1         0.1409    0.1710    0.9949    0.0044    0  P.TIN1.l.1        
+ XO.TIN3         0.0846    0.3637    0.9970    0.0023    0  P.TIN3.l.1        
+ XO.ALMN        -0.5946    0.3637    0.9957    0.0036    0  P.ALMN.l.1        
+Mean_arrival_time:    -9.0095                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.51   Inset:   3.90  Shift:   0.25                                                                                                                                       
+Variance: 0.00861   Coefficient: 0.99504  Sample rate:   40.000                                                                                                                     
+Taper:   2.19                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  7 27  2  4 11.20   -21.119  -176.557  211.2  0.0  0.0                                                                                                                  

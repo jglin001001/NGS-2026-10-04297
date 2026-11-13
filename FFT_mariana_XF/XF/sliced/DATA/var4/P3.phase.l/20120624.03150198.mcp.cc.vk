@@ -1,0 +1,14 @@
+MCCC processed: 1217603                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XF.AGRI         0.5425    0.3643    0.9903    0.0138    0  P.AGRI.l.1        
+ XF.ALMN         0.0075    0.3819    0.9914    0.0106    0  P.ALMN.l.1        
+ XF.PAGW         0.1613    0.4364    0.9837    0.0214    0  P.PAGW.l.1        
+ XF.SARI        -0.7113    0.4108    0.9710    0.0107    0  P.SARI.l.1        
+ XF.AGRI         0.5425    0.3643    0.9903    0.0138    0  P.AGRI.l.1        
+Mean_arrival_time:    -7.0508                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  14.14   Inset:   2.30  Shift:   0.25                                                                                                                                       
+Variance: 0.00722   Coefficient: 0.98410  Sample rate:   40.000                                                                                                                     
+Taper:   1.77                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2012  6 24  3 15  1.98    57.501   163.415   16.0  0.0  6.0                                                                                                                  

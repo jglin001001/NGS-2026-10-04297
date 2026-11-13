@@ -1,0 +1,20 @@
+MCCC processed: 1908301                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ PS.OL01         0.4245    0.4246    0.9885    0.0115    0  P.OL01.l.1        
+ PS.OL02         0.4895    0.4351    0.9915    0.0041    0  P.OL02.l.1        
+ PS.OL03         0.0795    0.3949    0.9883    0.0092    0  P.OL03.l.1        
+ PS.OL04        -0.6230    0.4468    0.9914    0.0082    0  P.OL04.l.1        
+ PS.OL05        -0.1255    0.4564    0.9861    0.0110    0  P.OL05.l.1        
+ PS.OL06        -0.6280    0.3949    0.9898    0.0089    0  P.OL06.l.1        
+ PS.OL07        -0.4580    0.3670    0.9913    0.0026    0  P.OL07.l.1        
+ PS.OL08         0.4795    0.4780    0.9924    0.0055    0  P.OL08.l.1        
+ PS.OL09        -0.1580    0.4955    0.9808    0.0100    0  P.OL09.l.1        
+ PS.OL11         0.5195    0.4073    0.9788    0.0091    0  P.OL11.l.1        
+ PS.OL01         0.4245    0.4246    0.9885    0.0115    0  P.OL01.l.1        
+Mean_arrival_time:   -10.7276                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  16.70   Inset:   0.62  Shift:   0.25                                                                                                                                       
+Variance: 0.01795   Coefficient: 0.98790  Sample rate:   40.000                                                                                                                     
+Taper:   2.09                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2019  3 24  1 32  0.19    -1.873   120.532   10.0  0.0  0.0                                                                                                                  

@@ -1,0 +1,16 @@
+MCCC processed: 0325013                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.ALMN        -0.5716    0.3541    0.9960    0.0040    0  P.ALMN.l.1        
+ XO.ANAH        -0.1425    0.4089    0.9940    0.0036    0  P.ANAH.l.1        
+ XO.GUA3         0.7534    0.3420    0.9893    0.0042    0  P.GUA3.l.1        
+ XO.PAGW        -0.6166    0.4088    0.9964    0.0008    0  P.PAGW.l.1        
+ XO.ROTA         0.4034    0.3930    0.9933    0.0051    0  P.ROTA.l.1        
+ XO.SAP3         0.1742    0.3611    0.9950    0.0053    0  P.SAP3.l.1        
+ XO.ALMN        -0.5716    0.3541    0.9960    0.0040    0  P.ALMN.l.1        
+Mean_arrival_time:   -11.4130                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.39   Inset:   3.73  Shift:   0.25                                                                                                                                       
+Variance: 0.00527   Coefficient: 0.99402  Sample rate:   40.000                                                                                                                     
+Taper:   2.17                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  9  7 13 16  0.00   -22.383   172.082   30.3  0.0  0.0                                                                                                                  

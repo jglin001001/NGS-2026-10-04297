@@ -1,0 +1,25 @@
+MCCC processed: 0327011                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.AGRN        -0.2620    0.2730    0.9039    0.0821    0  P.AGRN.h.1        
+ XO.ANAH        -0.0386    0.2975    0.8567    0.0884    0  P.ANAH.h.1        
+ XO.GUA1        -0.2836    0.1638    0.9235    0.0658    0  P.GUA1.h.1        
+ XO.GUA2        -0.6420    0.1639    0.8971    0.0749    0  P.GUA2.h.1        
+ XO.GUA3        -0.8998    0.2989    0.8985    0.0740    0  P.GUA3.h.1        
+ XO.GUGU         1.0074    0.2985    0.6913    0.0473    0  P.GUGU.h.1        
+ XO.ROTA         0.6174    0.2452    0.9174    0.0812    0  P.ROTA.h.1        
+ XO.SAP1         0.0097    0.1616    0.9235    0.0766    0  P.SAP1.h.1        
+ XO.SAP2        -0.0753    0.1616    0.9349    0.0708    0  P.SAP2.h.1        
+ XO.SAP3         0.0347    0.1616    0.9282    0.0693    0  P.SAP3.h.1        
+ XO.SAP5         0.2130    0.1618    0.9103    0.0601    0  P.SAP5.h.1        
+ XO.SAP6         0.0280    0.2739    0.9160    0.0784    0  P.SAP6.h.1        
+ XO.SARI        -0.8186    0.2738    0.8595    0.0838    0  P.SARI.h.1        
+ XO.TIN1         0.7101    0.1624    0.9255    0.0658    0  P.TIN1.h.1        
+ XO.TIN3         0.3997    0.2969    0.8742    0.0503    0  P.TIN3.h.1        
+ XO.AGRN        -0.2620    0.2730    0.9039    0.0821    0  P.AGRN.h.1        
+Mean_arrival_time:     4.1808                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   4.16   Inset:   1.12  Shift:   0.25                                                                                                                                       
+Variance: 0.01765   Coefficient: 0.89070  Sample rate:   40.000                                                                                                                     
+Taper:   0.52                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  9 27 11 33 25.13    50.009    87.779   16.0  0.0  0.0                                                                                                                  

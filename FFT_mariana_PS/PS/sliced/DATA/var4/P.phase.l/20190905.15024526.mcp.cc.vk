@@ -1,0 +1,16 @@
+MCCC processed: 1924815                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ PS.OL01        -0.1617    0.5963    0.9182    0.0489    0  P.OL01.l.1        
+ PS.OL02        -0.2767    0.6113    0.9368    0.0528    0  P.OL02.l.1        
+ PS.OL05         0.1425    0.5782    0.9678    0.0195    0  P.OL05.l.1        
+ PS.OL06         0.3600    0.5784    0.8926    0.0345    0  P.OL06.l.1        
+ PS.OL08        -0.0300    0.5363    0.9584    0.0428    0  P.OL08.l.1        
+ PS.OL11        -0.0342    0.5608    0.9548    0.0388    0  P.OL11.l.1        
+ PS.OL01        -0.1617    0.5963    0.9182    0.0489    0  P.OL01.l.1        
+Mean_arrival_time:   -13.1235                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.24   Inset:   0.44  Shift:   0.25                                                                                                                                       
+Variance: 0.03926   Coefficient: 0.93811  Sample rate:   40.000                                                                                                                     
+Taper:   2.15                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2019  9  5 15  2 45.26    43.713  -127.827   10.0  0.0  0.0                                                                                                                  

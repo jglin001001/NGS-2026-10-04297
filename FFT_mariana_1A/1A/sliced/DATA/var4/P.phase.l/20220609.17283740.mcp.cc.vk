@@ -1,0 +1,13 @@
+MCCC processed: 2216017                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ 1A.PS03         0.8025    0.4965    0.9837    0.0225    0  P.PS03.l.1        
+ 1A.PS08         2.3650    0.5804    0.9855    0.0164    0  P.PS08.l.1        
+ 1A.PS21         1.5700    0.6146    0.9619    0.0044    0  P.PS21.l.1        
+ 1A.PS03         0.8025    0.4965    0.9837    0.0225    0  P.PS03.l.1        
+Mean_arrival_time:    -5.3027                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  13.87   Inset:   1.41  Shift:   0.25                                                                                                                                       
+Variance: 0.01443   Coefficient: 0.97886  Sample rate:   40.000                                                                                                                     
+Taper:   1.73                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2022  6  9 17 28 37.40    32.373   101.887   14.5  0.0  0.0                                                                                                                  

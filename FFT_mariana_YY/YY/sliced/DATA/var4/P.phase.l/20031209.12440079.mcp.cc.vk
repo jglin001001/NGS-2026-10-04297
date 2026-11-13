@@ -1,0 +1,19 @@
+MCCC processed: 0334312                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ YY.OBS14       -0.1223    0.4079    0.9937    0.0074    0  P.OBS14.l.1       
+ YY.OBS19       -0.2000    0.3930    0.9955    0.0052    0  P.OBS19.l.1       
+ YY.OBS23        1.1050    0.3268    0.9834    0.0086    0  P.OBS23.l.1       
+ YY.OBS28        0.2389    0.3644    0.9889    0.0053    0  P.OBS28.l.1       
+ YY.OBS33        0.0550    0.4079    0.9931    0.0044    0  P.OBS33.l.1       
+ YY.OBS44       -0.4395    0.3181    0.9940    0.0039    0  P.OBS44.l.1       
+ YY.OBS47       -0.4584    0.3579    0.9948    0.0062    0  P.OBS47.l.1       
+ YY.OBS48        0.0605    0.3578    0.9884    0.0104    0  P.OBS48.l.1       
+ YY.OBS49       -0.2395    0.3818    0.9955    0.0047    0  P.OBS49.l.1       
+ YY.OBS14       -0.1223    0.4079    0.9937    0.0074    0  P.OBS14.l.1       
+Mean_arrival_time:    -2.9207                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  13.33   Inset:   0.68  Shift:   0.25                                                                                                                                       
+Variance: 0.00694   Coefficient: 0.99191  Sample rate:   40.000                                                                                                                     
+Taper:   1.67                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003 12  9 12 44  0.79    51.295  -179.299   26.8  0.0  0.0                                                                                                                  

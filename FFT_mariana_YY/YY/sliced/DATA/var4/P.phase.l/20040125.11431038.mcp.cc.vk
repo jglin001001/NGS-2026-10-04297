@@ -1,0 +1,22 @@
+MCCC processed: 0402511                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ YY.OBS08        1.5471    0.2146    0.9752    0.0194    0  P.OBS08.l.1       
+ YY.OBS09        1.7646    0.3641    0.9786    0.0178    0  P.OBS09.l.1       
+ YY.OBS14       -0.3404    0.3014    0.9904    0.0077    0  P.OBS14.l.1       
+ YY.OBS19       -0.4071    0.3014    0.9720    0.0257    0  P.OBS19.l.1       
+ YY.OBS23        0.5220    0.3054    0.9899    0.0087    0  P.OBS23.l.1       
+ YY.OBS28        0.0783    0.1714    0.9732    0.0209    0  P.OBS28.l.1       
+ YY.OBS32       -0.4321    0.2248    0.9917    0.0079    0  P.OBS32.l.1       
+ YY.OBS33       -0.1100    0.2578    0.9884    0.0091    0  P.OBS33.l.1       
+ YY.OBS44       -0.5667    0.2463    0.9849    0.0173    0  P.OBS44.l.1       
+ YY.OBS47       -0.8509    0.2137    0.9918    0.0076    0  P.OBS47.l.1       
+ YY.OBS48       -0.6771    0.1714    0.9860    0.0159    0  P.OBS48.l.1       
+ YY.OBS49       -0.5280    0.3287    0.9871    0.0148    0  P.OBS49.l.1       
+ YY.OBS08        1.5471    0.2146    0.9752    0.0194    0  P.OBS08.l.1       
+Mean_arrival_time:    -9.4466                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  16.03   Inset:   0.36  Shift:   0.25                                                                                                                                       
+Variance: 0.01318   Coefficient: 0.98412  Sample rate:   40.000                                                                                                                     
+Taper:   2.00                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2004  1 25 11 43 10.38   -16.845  -174.170  129.6  0.0  0.0                                                                                                                  

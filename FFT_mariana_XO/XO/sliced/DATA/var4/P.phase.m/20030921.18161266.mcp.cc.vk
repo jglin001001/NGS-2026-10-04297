@@ -1,0 +1,16 @@
+MCCC processed: 0326418                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.AGRN         0.8150    0.1796    0.9703    0.0274    0  P.AGRN.m.1        
+ XO.ALMN         0.9483    0.1802    0.9715    0.0200    0  P.ALMN.m.1        
+ XO.ANAH         0.9283    0.2574    0.9744    0.0175    0  P.ANAH.m.1        
+ XO.GUA1        -0.7600    0.1154    0.9667    0.0202    0  P.GUA1.m.1        
+ XO.GUA2        -0.9767    0.1163    0.9530    0.0414    0  P.GUA2.m.1        
+ XO.GUA3        -0.9550    0.2581    0.9247    0.0266    0  P.GUA3.m.1        
+ XO.AGRN         0.8150    0.1796    0.9703    0.0274    0  P.AGRN.m.1        
+Mean_arrival_time:     3.0692                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  11.56   Inset:   3.19  Shift:   0.25                                                                                                                                       
+Variance: 0.01581   Coefficient: 0.96010  Sample rate:   40.000                                                                                                                     
+Taper:   1.44                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  9 21 18 16 12.66    19.874    95.635    4.5  0.0  0.0                                                                                                                  

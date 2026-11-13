@@ -1,0 +1,16 @@
+MCCC processed: 2220311                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ 1A.PS01         0.6337    0.5534    0.9815    0.0130    0  P.PS01.l.1        
+ 1A.PS03         0.5587    0.6026    0.9888    0.0098    0  P.PS03.l.1        
+ 1A.PS08         1.6873    0.6927    0.9824    0.0103    0  P.PS08.l.1        
+ 1A.PS11        -0.1877    0.6926    0.9911    0.0040    0  P.PS11.l.1        
+ 1A.PS17         1.6123    0.4944    0.9810    0.0168    0  P.PS17.l.1        
+ 1A.PS21         0.9694    0.4293    0.9779    0.0103    0  P.PS21.l.1        
+ 1A.PS01         0.6337    0.5534    0.9815    0.0130    0  P.PS01.l.1        
+Mean_arrival_time:     9.3940                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  11.58   Inset:   1.70  Shift:   0.25                                                                                                                                       
+Variance: 0.00799   Coefficient: 0.98367  Sample rate:   40.000                                                                                                                     
+Taper:   1.45                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2022  7 22 11 31 45.90   -20.042   169.267   71.0  0.0  0.0                                                                                                                  

@@ -1,0 +1,16 @@
+MCCC processed: 1205706                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XF.AGRI         0.1600    0.2843    0.9972    0.0016    0  P.AGRI.l.1        
+ XF.ALMN        -0.0634    0.3484    0.9961    0.0046    0  P.ALMN.l.1        
+ XF.BAZL        -0.0400    0.4098    0.9980    0.0018    0  P.BAZL.l.1        
+ XF.GUGU        -0.2467    0.3892    0.9966    0.0042    0  P.GUGU.l.1        
+ XF.PAGW        -0.1967    0.4389    0.9969    0.0023    0  P.PAGW.l.1        
+ XF.SARI         0.3866    0.4568    0.9921    0.0033    0  P.SARI.l.1        
+ XF.AGRI         0.1600    0.2843    0.9972    0.0016    0  P.AGRI.l.1        
+Mean_arrival_time:    -6.6458                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  12.66   Inset:   2.39  Shift:   0.25                                                                                                                                       
+Variance: 0.00745   Coefficient: 0.99614  Sample rate:   40.000                                                                                                                     
+Taper:   1.58                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2012  2 26  6 17 19.92    51.801    95.980   13.0  0.0  6.7                                                                                                                  

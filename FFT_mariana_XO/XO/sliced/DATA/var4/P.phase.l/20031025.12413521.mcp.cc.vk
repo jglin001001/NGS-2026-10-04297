@@ -1,0 +1,16 @@
+MCCC processed: 0329812                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.GUA3        -0.5517    0.3825    0.9879    0.0106    0  P.GUA3.l.1        
+ XO.PAGE        -0.1725    0.2519    0.9826    0.0274    0  P.PAGE.l.1        
+ XO.PAGW         0.0725    0.3799    0.9790    0.0296    0  P.PAGW.l.1        
+ XO.ROTA         0.3433    0.3229    0.9882    0.0197    0  P.ROTA.l.1        
+ XO.SAP2         0.3983    0.2668    0.9490    0.0183    0  P.SAP2.l.1        
+ XO.SAP3        -0.0900    0.3287    0.9877    0.0167    0  P.SAP3.l.1        
+ XO.GUA3        -0.5517    0.3825    0.9879    0.0106    0  P.GUA3.l.1        
+Mean_arrival_time:    -7.9652                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.86   Inset:   5.41  Shift:   0.25                                                                                                                                       
+Variance: 0.01291   Coefficient: 0.97906  Sample rate:   40.000                                                                                                                     
+Taper:   2.23                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003 10 25 12 41 35.21    38.396   100.956    9.0  0.0  0.0                                                                                                                  

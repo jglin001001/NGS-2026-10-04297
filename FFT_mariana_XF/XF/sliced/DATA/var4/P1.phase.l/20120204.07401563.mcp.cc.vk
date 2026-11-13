@@ -1,0 +1,16 @@
+MCCC processed: 1203507                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XF.B02         -0.7431    0.5663    0.9827    0.0164    0  P.B02.l.1         
+ XF.B03         -0.3189    0.6766    0.9626    0.0333    0  P.B03.l.1         
+ XF.B09          4.0186    1.1424    0.9474    0.0254    0  P.B09.l.1         
+ XF.B12         -1.3656    0.6358    0.9657    0.0109    0  P.B12.l.1         
+ XF.B19         -0.8081    0.3910    0.9768    0.0202    0  P.B19.l.1         
+ XF.B20         -0.7831    0.5390    0.9800    0.0151    0  P.B20.l.1         
+ XF.B02         -0.7431    0.5663    0.9827    0.0164    0  P.B02.l.1         
+Mean_arrival_time:    -7.7490                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  13.87   Inset:   0.95  Shift:   0.25                                                                                                                                       
+Variance: 0.02713   Coefficient: 0.96919  Sample rate:   40.000                                                                                                                     
+Taper:   1.73                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2012  2  4  7 40 15.63   -20.636  -173.968   27.0  0.0  0.0                                                                                                                  

@@ -1,0 +1,13 @@
+MCCC processed: 1902408                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ PS.OL02         0.0750    0.5564    0.9442    0.0584    0  P.OL02.l.1        
+ PS.OL07        -1.0486    0.5013    0.9562    0.0539    0  P.OL07.l.1        
+ PS.OL10        -0.4914    0.5036    0.9259    0.0349    0  P.OL10.l.1        
+ PS.OL02         0.0750    0.5564    0.9442    0.0584    0  P.OL02.l.1        
+Mean_arrival_time:   -13.2053                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.64   Inset:   0.56  Shift:   0.25                                                                                                                                       
+Variance: 0.10175   Coefficient: 0.92765  Sample rate:   40.000                                                                                                                     
+Taper:   2.21                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2019  1 24  8 34 52.38    19.253   121.136   19.0  0.0  0.0                                                                                                                  

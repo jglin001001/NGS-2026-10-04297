@@ -1,0 +1,29 @@
+MCCC processed: 0336021                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XO.AGRN        -1.2973    0.1801    0.9682    0.0156    0  P.AGRN.m.1        
+ XO.ALMN        -0.6529    0.1808    0.9730    0.0185    0  P.ALMN.m.1        
+ XO.ANAH        -0.3289    0.2141    0.9710    0.0198    0  P.ANAH.m.1        
+ XO.GUA1         0.8037    0.0983    0.9420    0.0379    0  P.GUA1.m.1        
+ XO.GUA2         0.7074    0.1097    0.9733    0.0185    0  P.GUA2.m.1        
+ XO.GUA3         0.5863    0.2194    0.9197    0.0297    0  P.GUA3.m.1        
+ XO.GUGU        -0.7555    0.1863    0.9733    0.0166    0  P.GUGU.m.1        
+ XO.PAGE         1.3735    0.1125    0.9345    0.0232    0  P.PAGE.m.1        
+ XO.PAGW        -0.9173    0.2572    0.9769    0.0159    0  P.PAGW.m.1        
+ XO.ROTA         0.5263    0.1800    0.9665    0.0204    0  P.ROTA.m.1        
+ XO.SAP1        -0.2052    0.0949    0.9587    0.0218    0  P.SAP1.m.1        
+ XO.SAP2        -0.1394    0.0907    0.9680    0.0271    0  P.SAP2.m.1        
+ XO.SAP3         0.1011    0.0903    0.9694    0.0221    0  P.SAP3.m.1        
+ XO.SAP4         0.1079    0.0919    0.9733    0.0202    0  P.SAP4.m.1        
+ XO.SAP5         0.0092    0.0907    0.9732    0.0186    0  P.SAP5.m.1        
+ XO.SAP6         0.0448    0.0927    0.9753    0.0188    0  P.SAP6.m.1        
+ XO.TIN1        -0.1434    0.1010    0.9523    0.0239    0  P.TIN1.m.1        
+ XO.TIN2         0.0277    0.0978    0.9499    0.0252    0  P.TIN2.m.1        
+ XO.TIN3         0.1527    0.2114    0.9743    0.0185    0  P.TIN3.m.1        
+ XO.AGRN        -1.2973    0.1801    0.9682    0.0156    0  P.AGRN.m.1        
+Mean_arrival_time:    -1.7138                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   9.02   Inset:   3.94  Shift:   0.25                                                                                                                                       
+Variance: 0.02009   Coefficient: 0.96277  Sample rate:   40.000                                                                                                                     
+Taper:   1.13                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003 12 26 21 26  0.01   -22.275   169.348   10.0  0.0  0.0                                                                                                                  

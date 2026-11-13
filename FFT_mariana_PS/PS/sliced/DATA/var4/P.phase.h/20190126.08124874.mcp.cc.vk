@@ -1,0 +1,16 @@
+MCCC processed: 1902608                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ PS.OL06        -0.3629    0.1959    0.9582    0.0166    0  P.OL06.h.1        
+ PS.OL07        -0.0721    0.1963    0.9329    0.0410    0  P.OL07.h.1        
+ PS.OL08         0.4723    0.2375    0.9388    0.0365    0  P.OL08.h.1        
+ PS.OL09        -0.1550    0.1966    0.9392    0.0293    0  P.OL09.h.1        
+ PS.OL10        -0.3579    0.1984    0.9108    0.0462    0  P.OL10.h.1        
+ PS.OL11         0.4758    0.1963    0.9586    0.0212    0  P.OL11.h.1        
+ PS.OL06        -0.3629    0.1959    0.9582    0.0166    0  P.OL06.h.1        
+Mean_arrival_time:    -3.4758                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   2.19   Inset:   0.15  Shift:   0.25                                                                                                                                       
+Variance: 0.00527   Coefficient: 0.93975  Sample rate:   40.000                                                                                                                     
+Taper:   0.27                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2019  1 26  8 12 48.74    -5.496   133.765   10.0  0.0  0.0                                                                                                                  

@@ -1,0 +1,17 @@
+MCCC processed: 1220700                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XF.B01          0.7175    0.2090    0.9287    0.0673    0  P.B01.m.1         
+ XF.B02         -0.0557    0.1363    0.8850    0.1230    0  P.B02.m.1         
+ XF.B03         -0.3301    0.1955    0.9063    0.1085    0  P.B03.m.1         
+ XF.B09         -0.2025    0.2059    0.9310    0.0695    0  P.B09.m.1         
+ XF.B10          0.4456    0.2540    0.8558    0.0852    0  P.B10.m.1         
+ XF.B18         -0.2725    0.1892    0.9421    0.0318    0  P.B18.m.1         
+ XF.B19         -0.2900    0.2513    0.9359    0.0655    0  P.B19.m.1         
+ XF.B01          0.7175    0.2090    0.9287    0.0673    0  P.B01.m.1         
+Mean_arrival_time:    -4.5412                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   8.28   Inset:   1.07  Shift:   0.25                                                                                                                                       
+Variance: 0.05684   Coefficient: 0.90039  Sample rate:   40.000                                                                                                                     
+Taper:   1.04                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2012  7 25  0 27 45.83     2.625    96.111   28.6  0.0  0.0                                                                                                                  

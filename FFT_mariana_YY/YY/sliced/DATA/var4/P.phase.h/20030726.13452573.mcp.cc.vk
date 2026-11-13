@@ -1,0 +1,27 @@
+MCCC processed: 0320713                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ YY.OBS07        0.2548    0.1629    0.8917    0.0620    0  P.OBS07.h.1       
+ YY.OBS08        1.1535    0.1631    0.9299    0.0500    0  P.OBS08.h.1       
+ YY.OBS09        1.3332    0.2974    0.9197    0.0397    0  P.OBS09.h.1       
+ YY.OBS10       -0.2079    0.2733    0.9381    0.0393    0  P.OBS10.h.1       
+ YY.OBS14       -0.3346    0.2456    0.9065    0.0635    0  P.OBS14.h.1       
+ YY.OBS19       -0.2499    0.2453    0.9490    0.0272    0  P.OBS19.h.1       
+ YY.OBS23        0.1648    0.2456    0.9384    0.0321    0  P.OBS23.h.1       
+ YY.OBS25       -0.6863    0.2732    0.9252    0.0497    0  P.OBS25.h.1       
+ YY.OBS27       -0.6005    0.1637    0.8795    0.0817    0  P.OBS27.h.1       
+ YY.OBS28       -0.1485    0.1631    0.8984    0.0562    0  P.OBS28.h.1       
+ YY.OBS31        0.6780    0.2456    0.8962    0.0574    0  P.OBS31.h.1       
+ YY.OBS33       -0.0887    0.2463    0.8841    0.0787    0  P.OBS33.h.1       
+ YY.OBS44        0.0598    0.1642    0.9005    0.0588    0  P.OBS44.h.1       
+ YY.OBS47       -0.3108    0.1632    0.9483    0.0291    0  P.OBS47.h.1       
+ YY.OBS48       -0.2993    0.1627    0.9531    0.0252    0  P.OBS48.h.1       
+ YY.OBS49        0.0801    0.2972    0.9355    0.0282    0  P.OBS49.h.1       
+ YY.OBS57       -0.7978    0.2973    0.9078    0.0680    0  P.OBS57.h.1       
+ YY.OBS07        0.2548    0.1629    0.8917    0.0620    0  P.OBS07.h.1       
+Mean_arrival_time:    -0.5271                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   2.40   Inset:   0.23  Shift:   0.25                                                                                                                                       
+Variance: 0.01558   Coefficient: 0.91775  Sample rate:   40.000                                                                                                                     
+Taper:   0.30                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2003  7 26 13 45 25.73   -17.634  -174.997  226.2  0.0  0.0                                                                                                                  

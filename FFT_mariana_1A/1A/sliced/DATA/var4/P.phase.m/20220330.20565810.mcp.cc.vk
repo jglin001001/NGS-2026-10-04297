@@ -1,0 +1,15 @@
+MCCC processed: 2208920                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ 1A.PS01        -0.0383    0.2152    0.8881    0.0518    0  P.PS01.m.1        
+ 1A.PS03        -0.2087    0.2008    0.9435    0.0598    0  P.PS03.m.1        
+ 1A.PS08         1.3245    0.2241    0.9306    0.0248    0  P.PS08.m.1        
+ 1A.PS11        -1.9037    0.2244    0.9341    0.0724    0  P.PS11.m.1        
+ 1A.PS21         0.8263    0.2641    0.9455    0.0537    0  P.PS21.m.1        
+ 1A.PS01        -0.0383    0.2152    0.8881    0.0518    0  P.PS01.m.1        
+Mean_arrival_time:    -2.2073                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:   5.15   Inset:   0.25  Shift:   0.25                                                                                                                                       
+Variance: 0.01118   Coefficient: 0.92834  Sample rate:   40.000                                                                                                                     
+Taper:   0.64                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2022  3 30 20 56 58.10   -22.671   170.378   10.0  0.0  0.0                                                                                                                  

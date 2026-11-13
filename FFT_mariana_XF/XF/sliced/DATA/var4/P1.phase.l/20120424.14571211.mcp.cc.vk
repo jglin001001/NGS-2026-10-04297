@@ -1,0 +1,13 @@
+MCCC processed: 1211514                                                                                                                                                             
+station, mccc delay,    std,    cc coeff,  cc std,   pol   , t0_times  , delay_times                                                                                                
+ XF.B01          0.1650    0.5168    0.8883    0.1178    0  P.B01.l.1         
+ XF.B10         -0.0900    0.5412    0.9086    0.1013    0  P.B10.l.1         
+ XF.B18         -0.3550    0.4502    0.8956    0.1254    0  P.B18.l.1         
+ XF.B01          0.1650    0.5168    0.8883    0.1178    0  P.B01.l.1         
+Mean_arrival_time:     5.6865                                                                                                                                                       
+No weighting of equations.                                                                                                                                                          
+Window:  17.91   Inset:   1.15  Shift:   0.25                                                                                                                                       
+Variance: 0.06745   Coefficient: 0.86467  Sample rate:   40.000                                                                                                                     
+Taper:   2.24                                                                                                                                                                       
+Phase: P                                                                                                                                                                            
+PDE    2012  4 24 14 57 12.11     8.866    93.878   22.8  0.0  0.0                                                                                                                  
